@@ -1,5 +1,5 @@
-## Hi! Hallo! 󱥬󱤀
-I Could be Mathijs, mogelijks ben ik Mathijs, 󱤘󱤡󱤴󱤑󱦐󱤰󱦝󱥫󱦜󱥜󱦜󱦑
+## Hi! Hallo!
+I could be Mathijs. Mogelijks ben ik Mathijs.
 <!--
 **CouldBeMathijs/CouldBeMathijs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
